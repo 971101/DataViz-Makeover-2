@@ -1,0 +1,23 @@
+---
+title: "DataViz Makeover 2"
+description: |
+  DataViz Makeover 2 for ISSS608: Visual Analytics.
+author:
+  - name: Qian Ziwei
+    url: https://example.com/norajones
+date: 06-10-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# 1.0 Critique of Visualization
+The original visualization can be seen below.
+
+![](img/)
+
