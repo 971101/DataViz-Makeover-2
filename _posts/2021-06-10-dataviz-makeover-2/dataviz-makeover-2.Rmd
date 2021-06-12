@@ -34,11 +34,11 @@ The original visualization can be seen below.
 
     + Coordinate axes: On the coordinate axes, there are marked with scale but do not show the unit of the scale.
     + Annotate
-        + Notes are too cumbersome.
+        + Notes are too cumbersome. Each note under the graph have more than two long lines of explanation.
         + Notes are cluttered at the bottom of the chart.
         + The text size and color of the annotation varies.
-        + In the blue background annotate, it gives the explanation of Singapore merchadise trade with the US and China is not shown in the graph.
-        + In the graph, add annotate next to the icon for each region that gives a value but does not indicate which index it is.
+        + In the blue background annotate, it gives the explanation of Singapore merchadise trade with the United States(according to time) and China is not shown in the graph.
+        + In the graph, add annotate next to the icon for each region that gives a value but does not indicate which index it is. Like in the EU box, it gives the number "S$90.1 Bil". But cannot know what the number wants to show.
     + Data
         + The chart does not give the time range of the data used. 
         + Inadequately use of data. Using time series data, but the graph fail to show changes in target variables over time.
