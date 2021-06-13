@@ -48,7 +48,7 @@ The original visualization can be seen below.
 
 2.The explanatory notes below the graph are in different font sizes and colors from each other, and the borders are not aligned.
 
-3. Unnecessary addition of icons in the graph.
+3.Unnecessary addition of icons in the graph.
 
 # 2.0 Alternative Design
 The proposed design is as follows.
